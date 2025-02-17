@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/assets/logo.png" alt="JobIA AI Logo" width="200"/>
+  <img src="./assets/logo.png" alt="JobIA AI Logo" width="200"/>
   
   # JobIA AI - The Future of AI-Powered Recruitment
   
