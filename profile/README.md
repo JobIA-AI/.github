@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="../assets/logo.png" alt="JobIA AI Logo" width="150" />
   
-  # JobIA AI - The Future of AI-Powered Recruitment
+  # The Future of AI-Powered Recruitment
   
   [![Join Waitlist](https://img.shields.io/badge/Join-Waitlist-blue?style=for-the-badge)](https://jobia.ai)
 </div>
